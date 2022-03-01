@@ -1,0 +1,11 @@
+git log
+git log --oneline
+git log --author "Name"
+git pull origin main
+git diff <commit1-sha> <commit2-sha>
+git diff <branch1> <branch2>
+git reset --hard <commit-sha>
+git reset --soft <commit-sha>
+git reset --mixed <commit-sha>
+git reset <commit-sha>
+git revert <commit-sha>
